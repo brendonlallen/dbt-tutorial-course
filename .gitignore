@@ -1,4 +1,7 @@
 /venv
+/.venv
 .user.yml
 /logs
 logs
+**/.DS_Store
+.python-version
